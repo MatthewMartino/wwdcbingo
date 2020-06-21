@@ -26,5 +26,8 @@ body {
 .jumbotron {
   color: #007bff;
   background-color: #151515;
+}
 
+.bg-tech {
+  background-color: #b042ff;
 }
